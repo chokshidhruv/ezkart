@@ -1,0 +1,29 @@
+.textShadow{
+    text-shadow: 0rem 0.05rem #f8fcf9;
+}
+
+.bgGreen{
+    background-color: #a2c8b9;
+}
+
+.textGreen{
+    color: #719c8b;
+}
+
+
+ul li {
+    font-size: 1rem;
+    background-color: #f5fae9;
+    padding: 0.75rem 1rem;
+    border-radius: 8px;
+    flex-grow: 1;
+    text-align: center;
+    color: rgb(93, 117, 93);
+    font-weight: 500;
+    box-shadow: 0px 1px 4px rgba(0, 0, 0, 0.2)
+}
+
+ul li:hover {
+    background-color: #a2c8b9;
+    cursor: pointer;
+}
